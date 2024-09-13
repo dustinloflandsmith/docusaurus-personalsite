@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Yo!'
+sidebar_label: 'About me'
 sidebar_position: 1
 ---
 # Hello
